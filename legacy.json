@@ -1,0 +1,7 @@
+{ 
+  quarters : [
+    'M16' :  {
+      'ready' : false
+    }
+  ]
+}
